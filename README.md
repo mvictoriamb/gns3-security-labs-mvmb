@@ -28,21 +28,28 @@ graph TB
     C --> E[iptables / OpenVPN]
     D --> F[Wireshark / Torch Analysis]
 
-📊 Resultados
-text
-✅ 100% MiTM bloqueado post-OpenVPN
-✅ SYN Flood: 95% → 12% packet loss
-✅ ARP Spoof detectado real-time (Snort)
-✅ Port-Knocking: 831→841→851 sequence
-✅ Nmap stealth scans bloqueados
-📁 Documentación Completa (47 páginas)
-LAB-1-COMPLETO.pdf → DoS + Spoofing
-LAB-2-pt1-pt2-COMPLETO.docx → Brute Force + VPN
-LAB-2-pt-3-COMPLETO.docx → Snort + pfSense
-LAB3-PT1.docx → Nmap + iptables
-LAB-4-COMPLETO.pdf → TCP sin TLS
 
-👩‍💻 María Victoria Maldonado Bao
-Ciberseguridad & IA | 2º Grado UMA Málaga | Graduación 2028
-✉️ mvictoriamb0425@gmail.com
-💼 [LinkedIn][https://www.linkedin.com/in/maria-victoria-maldonado-bao/] | 🌐 [Portfolio] | 📞 (+34) 600 856 275
+✅ **100% MiTM bloqueado** post-OpenVPN  
+✅ **SYN Flood: 95% → 12% packet loss**  
+✅ **ARP Spoof detectado real-time** (Snort)  
+✅ **Port-Knocking: 831→841→851 sequence**  
+✅ **Nmap stealth scans bloqueados**  
+
+## 📁 **Documentación Completa (47 páginas)**
+
+| Lab | Contenido | [📄 Descargar] |
+|-----|-----------|----------------|
+| [LAB-1-COMPLETO.pdf](original-labs/LAB-1-COMPLETO.pdf) | DoS + Spoofing | [PDF] |
+| [LAB-2-pt1-pt2-COMPLETO.docx](original-labs/LAB-2-pt1-pt2-COMPLETO.docx) | Brute Force + VPN | [DOCX] |
+| [LAB-2-pt-3-COMPLETO.docx](original-labs/LAB-2-pt-3-COMPLETO.docx) | **Snort + pfSense** | [DOCX] |
+| [LAB3-PT1.docx](original-labs/LAB3-PT1.docx) | Nmap + iptables | [DOCX] |
+| [LAB-4-COMPLETO.pdf](original-labs/LAB-4-COMPLETO.pdf) | TCP sin TLS | [PDF] |
+
+---
+
+**👩‍💻 María Victoria Maldonado Bao**  
+**Ciberseguridad & IA | 2º Grado UMA Málaga | Graduación 2028**  
+<br>
+✉️ **mvictoriamb0425@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/maria-victoria-maldonado-bao/)** | 🌐 **Portfolio** | 📞 **(+34) 600 856 275**
+
