@@ -3,20 +3,23 @@
 </div>
 
 # 🛡️ **GNS3 Enterprise Security Labs**
-**5 labs completos** | **47 páginas técnicas** | **Snort IDS + pfSense + OpenVPN**
+**5 labs** | **47 páginas** | **Snort + pfSense + OpenVPN**
 
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org)
 [![NVIDIA Recommended](https://img.shields.io/badge/NVIDIA-Ambassador-teal?style=for-the-badge&logo=nvidia)](https://nvidia.com)
 
-## 📋 **Contenido**
+## 📋 **Laboratorios Completos**
 
-| **Lab** | **Ataques** | **Defensas** |
-|---------|-------------|--------------|
-| **LAB 1** | SYN Flood/LAND/Smurf | Wireshark |
-| **LAB 2** | Brute Force + VPN | **OpenVPN** |
-| **LAB 2.3** | ARP Spoof + SYN Flood | **Snort + pfSense** |
-| **LAB 3** | Nmap Scans | **iptables** |
-| **LAB 4** | TCP sin TLS | Python scripts |
+| **Lab** | **Contenido** | **📄** |
+|---------|---------------|--------|
+| **LAB 1** | SYN Flood + Spoofing | [PDF](original-labs/LAB-1-COMPLETO.pdf) |
+| **LAB 2** | Brute Force + VPN | [DOCX](original-labs/LAB-2-pt1-pt2-COMPLETO.docx) |
+| **LAB 2.3** | **Snort IDS + pfSense** | [DOCX](original-labs/LAB-2-pt-3-COMPLETO.docx) |
+| **LAB 3** | Nmap + iptables | [DOCX](original-labs/LAB3-PT1.docx) |
+| **LAB 4** | TCP sin TLS | [PDF](original-labs/LAB-4-COMPLETO.pdf) |
+
+## ✅ **Resultados**
+
 
 ## ✅ **Resultados**
 
