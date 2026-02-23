@@ -19,31 +19,22 @@
 | **LAB 3** | Nmap Stealth Scans | **iptables rate limiting** |
 | **LAB 4** | Client-Server TCP sin TLS | Scripts Python análisis |
 
-## 🛠 **Stack Técnico**
-```mermaid
-graph TB
-    A[GNS3 Emulation] --> B[Cisco Router + Kali VMs]
-    B --> C[hping3 / Ettercap / arpspoof]
-    B --> D[Snort IDS / pfSense NIDS]
-    C --> E[iptables / OpenVPN]
-    D --> F[Wireshark / Torch Analysis]
-
-
-✅ **100% MiTM bloqueado** post-OpenVPN  
-✅ **SYN Flood: 95% → 12% packet loss**  
-✅ **ARP Spoof detectado real-time** (Snort)  
-✅ **Port-Knocking: 831→841→851 sequence**  
-✅ **Nmap stealth scans bloqueados**  
+## ✅ **Resultados de Defensa**
+- ✅ **100% MiTM bloqueado** post-OpenVPN  
+- ✅ **SYN Flood: 95% → 12% packet loss**  
+- ✅ **ARP Spoof detectado real-time** (Snort)  
+- ✅ **Port-Knocking: 831→841→851 sequence**  
+- ✅ **Nmap stealth scans bloqueados**
 
 ## 📁 **Documentación Completa (47 páginas)**
 
-| Lab | Contenido | [📄 Descargar] |
-|-----|-----------|----------------|
-| [LAB-1-COMPLETO.pdf](original-labs/LAB-1-COMPLETO.pdf) | DoS + Spoofing | [PDF] |
-| [LAB-2-pt1-pt2-COMPLETO.docx](original-labs/LAB-2-pt1-pt2-COMPLETO.docx) | Brute Force + VPN | [DOCX] |
-| [LAB-2-pt-3-COMPLETO.docx](original-labs/LAB-2-pt-3-COMPLETO.docx) | **Snort + pfSense** | [DOCX] |
-| [LAB3-PT1.docx](original-labs/LAB3-PT1.docx) | Nmap + iptables | [DOCX] |
-| [LAB-4-COMPLETO.pdf](original-labs/LAB-4-COMPLETO.pdf) | TCP sin TLS | [PDF] |
+| Lab | Contenido | Archivo |
+|-----|-----------|---------|
+| [LAB-1](original-labs/LAB-1-COMPLETO.pdf) | DoS + Spoofing | [PDF](original-labs/LAB-1-COMPLETO.pdf) |
+| [LAB-2](original-labs/LAB-2-pt1-pt2-COMPLETO.docx) | Brute Force + VPN | [DOCX](original-labs/LAB-2-pt1-pt2-COMPLETO.docx) |
+| [LAB-2.3](original-labs/LAB-2-pt-3-COMPLETO.docx) | **Snort + pfSense** | [DOCX](original-labs/LAB-2-pt-3-COMPLETO.docx) |
+| [LAB-3](original-labs/LAB3-PT1.docx) | Nmap + iptables | [DOCX](original-labs/LAB3-PT1.docx) |
+| [LAB-4](original-labs/LAB-4-COMPLETO.pdf) | TCP sin TLS | [PDF](original-labs/LAB-4-COMPLETO.pdf) |
 
 ---
 
@@ -51,5 +42,4 @@ graph TB
 **Ciberseguridad & IA | 2º Grado UMA Málaga | Graduación 2028**  
 <br>
 ✉️ **mvictoriamb0425@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/maria-victoria-maldonado-bao/)** | 🌐 **Portfolio** | 📞 **(+34) 600 856 275**
-
+💼 **[LinkedIn](https://www.linkedin.com/in/maria-victoria-maldonado-bao/)** | 📞 **(+34) 600 856 275**
