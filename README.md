@@ -5,8 +5,6 @@
 # 🛡️ **GNS3 Enterprise Security Labs**
 **5 labs** | **47 páginas** | **Snort + pfSense + OpenVPN**
 
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org)
-[![NVIDIA Recommended](https://img.shields.io/badge/NVIDIA-Ambassador-teal?style=for-the-badge&logo=nvidia)](https://nvidia.com)
 
 ## 📋 **Laboratorios Completos**
 
