@@ -37,6 +37,7 @@
 
 ---
 
+
 <div align="center">
   <h3>👩‍💻 María Victoria Maldonado Bao</h3>
   <p><i>Ciberseguridad & Inteligencia Artificial | UMA Málaga 2028</i></p>
@@ -47,4 +48,3 @@
   <br><br>
 
 </div>
-
