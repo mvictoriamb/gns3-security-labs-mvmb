@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola!+Soy+Mar%C3%ADa+Victoria+Maldonado+Bao;🛡️+Ciberseguridad+%26+IA;🎻+Violinista+pianista+profesional;🌏+Triling%C3%BCe+ES%2FEN%2FCN;MSc+Cyber+Security+%26+AI+%40+Radboud" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola!+Soy+Mar%C3%ADa+Victoria+Maldonado+Bao;🛡️+Ciberseguridad+%26+IA" alt="typing svg" />
 </div>
 
 # 🛡️ **GNS3 Enterprise Security Labs**
